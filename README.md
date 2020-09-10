@@ -1,2 +1,5 @@
 # hello-world
-Nuevo inicio, Imprime la frase 'Hello World'
+
+Regards!
+
+This is the beginning of a new era of programming!
